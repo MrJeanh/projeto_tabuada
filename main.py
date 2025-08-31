@@ -10,4 +10,4 @@ def menu():
         f.tabuada_adicao(numero)
     else:
         print("Opção inválida!")
-menu()
+menu() # Inicio do programa
